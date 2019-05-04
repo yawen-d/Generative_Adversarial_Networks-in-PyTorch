@@ -18,13 +18,13 @@ The assignment consists of training a Generative Adversarial Network on the CIFA
 
 Test Accuracy: **89.29%** after 100 epochs.
 
-![Screen Shot 2019-04-10 at 2.52.29 PM](assets/Screen Shot 2019-04-10 at 2.52.29 PM.png)
+![withoutGen](assets/withoutGen.png)
 
 #### Trained with the Generator
 
 Test Accuracy: **75.62%** after 200 epochs.
 
-![Screen Shot 2019-04-10 at 2.55.17 PM](assets/Screen Shot 2019-04-10 at 2.55.17 PM.png)
+![withGen](assets/withGen.png)
 
 ### Output
 
